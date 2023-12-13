@@ -14,7 +14,7 @@
                 for (int columnas = 9 ; columnas >= 0; columnas--)
                 {
                     numeros[filas,columnas] = contador++;
-                    ;
+                    
                 }
             }
             //Imprimir los numeros
